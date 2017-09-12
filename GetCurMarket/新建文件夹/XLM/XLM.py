@@ -425,6 +425,7 @@ TotleNumber = 0.000000
 
 Type = "XLM"
 
+
 Title = Type + '胡氏交易'
 Message = '胡氏交易软件'
 
